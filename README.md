@@ -1,10 +1,6 @@
 # AShell
 Personal implementation of a UNIX shell.  
 
-Authors:  
-Suraj Jena <skjena@ucdavis.edu>  
-Kumud Ravisankaran <kravisankaran@ucdavis.edu>  
-
 Citations:  
 noncanmode.c implemented by Christopher J. Nitta, Professor at UC Davis  
 http://www.3till7.net/2008/11/29/c-shell-with-forks-and-pipes/  
